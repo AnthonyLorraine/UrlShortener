@@ -2,4 +2,6 @@
 bin
 Migrations
 obj
-*.db
+*.db*
+*.http
+*.DotSettings.*
